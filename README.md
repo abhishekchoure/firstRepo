@@ -1,3 +1,2 @@
 # firstRepo
-
-This is my first repository
+I make changes in my first repository first file
